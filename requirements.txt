@@ -1,0 +1,3 @@
+crypto==1.4.1
+Crypto.Cipher==1
+cryptography==39.0.0
