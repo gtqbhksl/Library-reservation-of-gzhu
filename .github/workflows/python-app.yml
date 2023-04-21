@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ serverless ]
   schedule:
-    - cron:  31 06 * * *  
+    - cron:  31 22 * * *  
 
 jobs:
   checkin:
