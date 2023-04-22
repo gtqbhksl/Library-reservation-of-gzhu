@@ -5,9 +5,9 @@ name: Library-reservation-of-gzhu
 on:
   workflow_dispatch: 
   push:
-    branches: [ serverless ]
+    branches: [ main ]
   pull_request:
-    branches: [ serverless ]
+    branches: [ main ]
   schedule:
     - cron:  31 22 * * *  
 
