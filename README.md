@@ -21,6 +21,9 @@ workflows里面都写好了，每天6：31进行登录预约（想6：30预约�
 
 ![](https://komarev.com/ghpvc/?username=Library-reservation-of-gzhu&color=yellow)
 
+---------
+## 2023年4月22日更新
+根据GitHub服务器的标准时间，北京时间6:31分对应标准时间前一天22:31，date就差了一天，所以预约日期为当前系统日期+2
 
 下面是原作者README
 
